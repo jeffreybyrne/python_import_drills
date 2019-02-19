@@ -5,7 +5,7 @@ import scene
 from art.even_more_art import images
 
 print(ascii.one())
-print(two())
+print(ascii.two())
 print(three())
 print(four())
 print(five())
