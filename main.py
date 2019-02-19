@@ -3,9 +3,11 @@
 import ascii
 import scene
 from art.even_more_art import images
+from art import pictures
 
 print(ascii.one())
 print(ascii.two())
-print(three())
-print(four())
+print(pictures.three())
+print(pictures.four())
 print(five())
+print(six())
