@@ -4,7 +4,7 @@ import ascii
 import scene
 from art.even_more_art import images
 
-print(one())
+print(ascii.one())
 print(two())
 print(three())
 print(four())
